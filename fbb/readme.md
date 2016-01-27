@@ -1,0 +1,2 @@
+- `bar` requires `foo`
+- `baz` requires `bar`
